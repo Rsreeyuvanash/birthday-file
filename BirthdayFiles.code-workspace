@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "..\\BirthdayFiles"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
